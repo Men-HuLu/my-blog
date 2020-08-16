@@ -5,6 +5,8 @@ tags:
 categories: 开发工具
 description: npm入门基础知识及常用命令
 abbrlink: d22ed76f
+top_img: https://yuminjun.oss-cn-hangzhou.aliyuncs.com/wlop/2.jpg
+cover: https://yuminjun.oss-cn-hangzhou.aliyuncs.com/zelda/8.jpg
 date: 2020-07-28
 ---
 

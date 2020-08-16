@@ -2,14 +2,36 @@
 - class_name: 友情鏈接
   class_desc: 那些人，那些事
   link_list:
+    - name: 阮一峰
+      link: http://www.ruanyifeng.com/blog/
+      avatar: https://jerryc.me/image/avatar.png
+    - name: 心谭
+      link: https://xin-tan.com/
+      avatar: https://jerryc.me/image/avatar.png
+    - name: geekplux
+      link: https://geekplux.com/
+      avatar: https://jerryc.me/image/avatar.png
+    - name: shanyue
+      link: https://shanyue.tech/
+      avatar: https://jerryc.me/image/avatar.png
     - name: JerryC
       link: https://jerryc.me/
       avatar: https://jerryc.me/image/avatar.png
-      descr: 今日事,今日畢
-    - name: Hexo
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、簡單且強大的網誌框架
+    - name: 木易杨
+      link: https://muyiy.cn/
+      avatar: https://jerryc.me/image/avatar.png
+    - name: DIYgod
+      link: https://diygod.me/
+      avatar: https://jerryc.me/image/avatar.png
+    - name: Phodal Huang
+      link: https://www.phodal.com
+      avatar: https://jerryc.me/image/avatar.png
+    - name: ihoey
+      link: https://blog.ihoey.com/
+      avatar: https://jerryc.me/image/avatar.png
+    - name: 马丁·克莱普曼
+      link: https://martin.kleppmann.com/
+      avatar: https://jerryc.me/image/avatar.png
 
 - class_name: 網站
   class_desc: 值得推薦的網站

@@ -5,6 +5,8 @@ tags:
 categories: 开发工具
 description: vscode快捷键
 abbrlink: 7ea82d0d
+top_img: https://yuminjun.oss-cn-hangzhou.aliyuncs.com/zelda/6.jpg
+cover: https://yuminjun.oss-cn-hangzhou.aliyuncs.com/zelda/6.jpg
 date: 2020-07-28
 ---
 ## 键盘快捷键

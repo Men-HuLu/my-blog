@@ -7,6 +7,8 @@ categories: 开发工具
 description: git入门基础知识及常用命令
 abbrlink: aab6f46e
 top: true
+top_img: https://yuminjun.oss-cn-hangzhou.aliyuncs.com/wlop/1.jpg
+cover: https://yuminjun.oss-cn-hangzhou.aliyuncs.com/zelda/9.png
 date: 2019-4-15
 ---
 

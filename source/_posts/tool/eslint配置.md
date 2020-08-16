@@ -6,6 +6,8 @@ tags:
 categories: 开发工具
 description: react eslint基础配置
 abbrlink: d32fe85b
+top_img: https://yuminjun.oss-cn-hangzhou.aliyuncs.com/zelda/5.jpg
+cover: https://yuminjun.oss-cn-hangzhou.aliyuncs.com/zelda/5.jpg
 date: 2019-4-15
 ---
 
