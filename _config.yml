@@ -101,11 +101,6 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 
-algolia:
-  applicationID: 'ZTF2YQRWDV'
-  apiKey: 'c29f5ca0d88c8ebaadc5761ee8d74550'
-  indexName: 'blog'
-
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
   # type: git
